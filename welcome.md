@@ -10,3 +10,12 @@ Find out what we [do](http://www.reprolabnus.com/)
 
 Admin
 ----------
+
+Beetles
+----------
+
+Mosquitoes
+----------
+
+BlackSoldierFlies
+----------
