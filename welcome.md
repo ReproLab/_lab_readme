@@ -3,7 +3,8 @@ Welcome to Reprolab!
 
 Find out what we [do](http://www.reprolabnus.com/)
 -   [Admin](#to-do-list)
--   [Computing Resources](#computing-resources)
--   [Guides and tutorials](#guides-and-tutorials)
+-   [Beetles](#computing-resources)
+-   [Mosquitoes](#guides-and-tutorials)
+-   [Black Soldier Flies](#guides-and-tutorials)
 
 
