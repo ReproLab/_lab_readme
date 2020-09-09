@@ -5,7 +5,7 @@ Find out what we [do](http://www.reprolabnus.com/)
 -   [Admin](#Admin)
 -   [Beetles](#Beetles)
 -   [Mosquitoes](#Mosquitoes)
--   [Black Soldier Flies](#Black Soldier Flies)
+-   [Black Soldier Flies](#BlackSoldierFlies)
 
 
 Admin
