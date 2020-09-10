@@ -3,15 +3,15 @@ Welcome to Reprolab!
 
 Find out what we [do](http://www.reprolabnus.com/)
 -   [Admin](#Admin)
--   [Safety courses](#safetycourses)
--   [Best practices](#bestpractices)
--   [Methods](#methods)
+-   [Safety courses](#Safetycourses)
+-   [Best practices](#Bestpractices)
+-   [Methods](#Methods)
 
 
 Admin
 ----------
 
-safetycourses
+Safetycourses
 ----------
 | Description       | Courses    | Date of completion | 
 |-------------------|------------|--------------------|
@@ -22,8 +22,8 @@ safetycourses
 |                   |            |                    |
 |                   |            |                    |
 
-bestpractices
+Bestpractices
 ----------
 
-methods
+Methods
 ----------
