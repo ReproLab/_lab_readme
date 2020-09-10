@@ -11,7 +11,7 @@ Find out what we [do](http://www.reprolabnus.com/)
 Admin
 ----------
 
-Safetycourses
+Safety courses
 ----------
 | Description       | Courses    | Date of completion | 
 |-------------------|------------|--------------------|
@@ -22,7 +22,7 @@ Safetycourses
 |                   |            |                    |
 |                   |            |                    |
 
-Bestpractices
+Best practices
 ----------
 
 Methods
