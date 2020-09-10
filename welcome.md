@@ -30,4 +30,4 @@ Methods
 
 
 Protocol
-[mosquito-specific protocols](#mosquito)
+[mosquito-specific protocols](#mosquito.md)
