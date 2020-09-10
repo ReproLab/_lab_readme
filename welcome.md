@@ -25,9 +25,15 @@ Safety courses
 Best practices
 ----------
 
+
 Methods
 ----------
+##Organism-specific protocols
+[beetle]
+[mosquito](https://github.com/ReproLab/_lab_readme/blob/master/mosquito.md)
+[sepsid]
 
 
-Protocol
-[mosquito-specific protocols](https://github.com/ReproLab/_lab_readme/blob/master/mosquito.md)
+##Data Science Guides :octocat: 
+Introduction to [git] and [github]
+Reprolab cookbook
