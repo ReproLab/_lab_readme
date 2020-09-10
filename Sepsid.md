@@ -1,8 +1,8 @@
-Dissection 
+1. Dissection 
 
 
-Phenotype measurement 
+2. Phenotype measurement 
 
 
-Culture 
+3. Culture 
 
