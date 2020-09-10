@@ -10,7 +10,7 @@ Content page:
 -   [Methods](#Methods)
 
 
-Admin
+Admin - to email to RA
 ----------
 Personal details  
 
@@ -24,10 +24,10 @@ Student Email
 
 Gmail (for calendar) 
 
-Lab write up + photo for website :smile
+Lab write up + photo for website :smile:
 
 
-Safety courses
+Safety courses 
 ----------
 | Description       | Courses    | Date of completion | 
 |-------------------|------------|--------------------|
@@ -50,11 +50,9 @@ Protocol
 
 
 
-
-testing testing 1 2 3 
-I am a header 
---------------
-
+##Data Science Guides :octocat: 
+Introduction to [git] and [github]
+Reprolab cookbook
 
 
 
