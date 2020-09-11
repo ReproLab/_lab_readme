@@ -5,9 +5,15 @@
     b. Experimental setups
 
 
-2. Dissection 
+2. Sexing
+    a. Males
+    
+    b. Females
 
 
-3. Measurements 
+3. Dissection 
+
+
+4. Measurements 
 
 
