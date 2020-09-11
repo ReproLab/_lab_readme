@@ -29,7 +29,7 @@ Lab write up + photo for website :smile:
 
 Safety courses 
 ----------
- 
+All members of the lab needs to undergo their required safety courses. Check below to find out which! 
 |                  |Fac safety|Dept safety|Lab training|OSHGEN01|OSHGEN03|OSHCHM01|OSHFS01|OSHGEN08|OSHBIO06|OSHCHM06|
 |------------------|----------|-----------|------------|--------|--------|--------|-------|--------|--------|--------|
 |Research fellow   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
