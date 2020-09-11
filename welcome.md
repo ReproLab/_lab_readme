@@ -29,14 +29,15 @@ Lab write up + photo for website :smile:
 
 Safety courses 
 ----------
-| Description       | Courses    | Date of completion | 
-|-------------------|------------|--------------------|
-|                   |            |                    |
-|                   |            |                    |
-|                   |            |                    |
-|                   |            |                    |
-|                   |            |                    |
-|                   |            |                    |
+ 
+|                  |Fac safety|Dept safety|Lab training|OSHGEN01|OSHGEN03|OSHCHM01|OSHFS01|OSHGEN08|OSHBIO06|OSHCHM06|
+|------------------|----------|-----------|------------|--------|--------|--------|-------|--------|--------|--------|
+|Research fellow   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|Research assistant|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|Postgraduate      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|FYP student       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |
+|UROPS student     |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |        |
+
 
 Best practices
 ----------
