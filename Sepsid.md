@@ -1,8 +1,13 @@
-1. Dissection 
+1. Culture maintenance
+
+a. Stock maintenance
+
+b. Experimental setups
 
 
-2. Phenotype measurement 
+2. Dissection 
 
 
-3. Culture 
+3. Measurements 
+
 
