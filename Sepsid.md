@@ -1,8 +1,8 @@
 1. Culture maintenance
 
-a. Stock maintenance
+    a. Stock maintenance
 
-b. Experimental setups
+    b. Experimental setups
 
 
 2. Dissection 
