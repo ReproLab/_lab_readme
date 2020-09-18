@@ -6,7 +6,7 @@ Find out what we [do](http://www.reprolabnus.com/)
 Content page:
 -   [Admin](#Admin)
 -   [Safety courses](#Safetycourses)
--   [Best practices](#Bestpractices)
+-   [Best practices](## Best practices)
 -   [Methods](#Methods)
 
 
@@ -39,21 +39,24 @@ All members of the lab needs to undergo their required safety courses before beg
 |UROPS student     |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |        |
 
 
-Best practices
-----------
+## Best practices
 
 Methods
 ----------
+- [Mosquito-specific protocols](https://github.com/ReproLab/_lab_readme/blob/master/mosquito.md)
 
 
-Protocol
-[mosquito-specific protocols](https://github.com/ReproLab/_lab_readme/blob/master/mosquito.md)
+Data Science and Bioinformatics Guides
+------------
+### Introduction to git and githib
 
 
-
-##Data Science Guides :octocat: 
-Introduction to [git] and [github]
-Reprolab cookbook
+### Using RStudio
 
 
+### Learning markdown syntax
+- [Basic markdown syntax guide](https://www.markdownguide.org/basic-syntax/) - the markdown syntax is very similar to html but with slight differences
+- Markdown cheatsheet
 
+### Reprolab cookbook
+A collection of how-tos and troubleshooting tips by the lab
