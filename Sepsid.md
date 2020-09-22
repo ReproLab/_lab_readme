@@ -1,4 +1,4 @@
-####**1. Culture maintenance**
+####1. Culture maintenance
 
    ##**a. Stock maintenance**
 
