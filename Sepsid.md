@@ -1,20 +1,15 @@
-# 1. Culture maintenance
+# Culture maintenance
 
-   ##  a. Stock maintenance
+   ## Stock maintenance
 
-   ##  b. Experimental setups
-
-
-# 2. Sexing
-
-   ##  a. Males
-    
-   ##  b. Females
+   ## Experimental setups
 
 
-# 3. Dissection
+# Sexing
+
+# Dissection
 
 
-#### 4. Measurements
+# Measurements
 
 
