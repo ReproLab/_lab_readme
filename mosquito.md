@@ -29,6 +29,7 @@ Stage codes:
 - Larvae 4th instars: L4
 - Pupa : P
 - Adult : A
+
 Check for:
 - 4th instars
   - If not sure, look for exuviae
@@ -46,6 +47,7 @@ Check for:
   - Shift to middle before scooping to prevent damage
   - Alternatively, pipette onto scoop
 Split each 3rd, 4th larvae and pupae into their own containers at the start (2 vials + rubber band) and label
+
 Cleaning:
 - Water too cloudy
 - Excessive algae (clean last/separate pipette)
@@ -53,6 +55,7 @@ Cleaning:
 - Worms/nymphs
 - Molts
 - Rinse pipette with RO water in a vial per mosquito vial? Good idea!
+
 Feeding:
 - Larvae only, not pupae
 - Crush food with cap 
