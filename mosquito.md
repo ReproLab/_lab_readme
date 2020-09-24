@@ -41,10 +41,10 @@ Check for:
   - E.g. KR3-L4 
          P-15/8 
          A-20/8
-Dead larvae/pupa:
-- Pick up with metal scoop(flat side) into ethanol in individual eppendorf tubes
-- Shift to middle before scooping to prevent damage
-- Alternatively, pipette onto scoop
+- Dead larvae/pupa:
+  - Pick up with metal scoop(flat side) into ethanol in individual eppendorf tubes
+  - Shift to middle before scooping to prevent damage
+  - Alternatively, pipette onto scoop
 Split each 3rd, 4th larvae and pupae into their own containers at the start (2 vials + rubber band) and label
 Cleaning:
 - Water too cloudy
