@@ -35,31 +35,30 @@ Check for:
   - Label with L4 + date
 - Pupa
   - Label with P + date
-Adults
+- Adults
   - Transfer to dry container
   - Transfer old label (including L4, P date) + A + emerging date 
   - E.g. KR3-L4 
          P-15/8 
          A-20/8
-Dead larvae/pupa
+Dead larvae/pupa:
 - Pick up with metal scoop(flat side) into ethanol in individual eppendorf tubes
 - Shift to middle before scooping to prevent damage
 - Alternatively, pipette onto scoop
 Split each 3rd, 4th larvae and pupae into their own containers at the start (2 vials + rubber band) and label
-Cleaning
-Water too cloudy
-Excessive algae (clean last/separate pipette)
-Excessive uneaten food 
-Worms/nymphs
-Molts
-Rinse pipette with RO water in a vial per mosquito vial? Good idea!
-Feed
-Larvae only, not pupae
-Crush food with cap 
-Sprinkle dry food on surface w/o water for anopheles (larvae parallel to water surface)
-Pour into vial with RO water 
-Feed suitable amount with food pipette, do not dip into mosquito vial water
-
+Cleaning:
+- Water too cloudy
+- Excessive algae (clean last/separate pipette)
+- Excessive uneaten food 
+- Worms/nymphs
+- Molts
+- Rinse pipette with RO water in a vial per mosquito vial? Good idea!
+Feeding:
+- Larvae only, not pupae
+- Crush food with cap 
+- Sprinkle dry food on surface w/o water for anopheles (larvae parallel to water surface)
+- Pour into vial with RO water 
+- Feed suitable amount with food pipette, do not dip into mosquito vial water
 
 ## Dissection protocol
 
