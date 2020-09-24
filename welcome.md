@@ -9,6 +9,7 @@ Content page:
 -   [Best practices](#Best-practices)
 -   [Methods](#Methods)
 -   [Data science](#Data-science)
+-   [Reprolab cookbook](#Reprolab-cookbook)
 
 
 Admin - to email to RA
@@ -34,24 +35,32 @@ All members of the lab needs to undergo their required safety courses before beg
 |UROPS student     |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |        |
 
 
-## Best practices
+Best practices
+----------------
+- Maintaining a lab notebook
+- Maintaining softcopy of datasheet
+- Wear laboratory appropriate attire (Jeans and covered shoes)
+- Use a citation software (Mendeley/Zotero)
 
 Methods
 ----------
-- [Mosquito-specific protocols](https://github.com/ReproLab/_lab_readme/blob/master/mosquito.md)
+- Wet laboratory aseptic techniques
+- Insectary general guide
+- Organism-specific protocols
+  - Beetle-specific protocols
+  - Black soldier fly-specific protocols
+  - [Mosquito-specific protocols](https://github.com/ReproLab/_lab_readme/blob/master/mosquito.md)
+  - [Sepsid protocols](https://github.com/ReproLab/_lab_readme/blob/master/Sepsid.md)
 
 
-Data Science and Bioinformatics Guides
+Data science
 ------------
-### Introduction to git and githib
-
-
-### Using RStudio
-
-
-### Learning markdown syntax
-- [Basic markdown syntax guide](https://www.markdownguide.org/basic-syntax/) - the markdown syntax is very similar to html but with slight differences
+- Introduction to git and githib
+- Using RStudio
+- Learning markdown syntax
+  - [Basic markdown syntax guide](https://www.markdownguide.org/basic-syntax/) - the markdown syntax is very similar to html but with slight differences
 - Markdown cheatsheet
 
-### Reprolab cookbook
+Reprolab cookbook
+----------------------
 A collection of how-tos and troubleshooting tips by the lab
