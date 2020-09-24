@@ -20,9 +20,11 @@ refer to [link]()
 
 
 ## Sampling Protocol
+<figure>
+<img src="images/Frass.jpeg" style="width:50.0%" alt="" /><figcaption>Fig 2. BSF frass</figcaption>
+</figure>
 
-
-## Rearing protocol :mosquito:
+## Rearing protocol 
 Stage codes:
 - Larvae 1st to 2nd instars : U
 - Larvae 3rd instars: L3
