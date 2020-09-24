@@ -6,8 +6,9 @@ Find out what we [do](http://www.reprolabnus.com/)
 Content page:
 -   [Admin](#Admin)
 -   [Safety courses](#Safetycourses)
--   [Best practices](## Best practices)
+-   [Best practices](#Bestpractices)
 -   [Methods](#Methods)
+-   [Data science](#Datascience)
 
 
 Admin - to email to RA
