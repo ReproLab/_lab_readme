@@ -4,14 +4,14 @@ Welcome to Reprolab!
 Find out what we [do](http://www.reprolabnus.com/)
 
 Content page:
--   [Admin](#Admin-(to-email-to-RA))
+-   [Admin](#Admin---to-email-to-RA)
 -   [Safety courses](#Safety-courses)
 -   [Best practices](#Best-practices)
 -   [Methods](#Methods)
 -   [Data science](#Data-science)
 
 
-Admin (to email to RA)
+Admin - to email to RA
 ----------
 1. Personal details  
 2. Full name 
