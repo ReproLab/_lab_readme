@@ -20,9 +20,6 @@ refer to [link]()
 
 
 ## Sampling Protocol
-<figure>
-<img src="images/Frass.jpeg" style="width:50.0%" alt="" /><figcaption>Fig 2. BSF frass</figcaption>
-</figure>
 
 ## Rearing protocol 
 Stage codes:
@@ -49,6 +46,8 @@ Check for:
   - Shift to middle before scooping to prevent damage
   - Alternatively, pipette onto scoop
 Split each 3rd, 4th larvae and pupae into their own containers at the start (2 vials + rubber band) and label
+
+![Mosquito vials](/mosquito_images/mosquito_vials.jpg)
 
 Cleaning:
 - Water too cloudy
