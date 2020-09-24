@@ -12,22 +12,14 @@ Content page:
 
 
 Admin (to email to RA)
-
 ----------
-
-Personal details  
-
-Full name 
-
-Matric no 
-
-Handphone no (for Reprolab whatsapp chat) 
-
-Student Email 
-
-Gmail (for calendar) 
-
-Lab write up + photo for website :smile:
+1. Personal details  
+2. Full name 
+3. Matric no 
+4. Handphone no (for Reprolab whatsapp chat) 
+5. Student Email 
+6. Gmail (for calendar) 
+7. Lab write up + photo for website :smile:
 
 
 Safety courses 
