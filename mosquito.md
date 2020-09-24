@@ -47,7 +47,7 @@ Check for:
   - Alternatively, pipette onto scoop
 Split each 3rd, 4th larvae and pupae into their own containers at the start (2 vials + rubber band) and label
 
-![Mosquito vials]<img src= "https://github.com/ReproLab/_lab_readme/tree/master/mosquito_images/mosquito_vials.jpg">
+![Mosquito vials](mosquito_vials.jpg)
 
 Cleaning:
 - Water too cloudy
