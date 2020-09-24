@@ -19,6 +19,9 @@
 
 #Female flies legs: Non-modified smooth forelegs
 
+![WeChat Image_20200924170855](https://user-images.githubusercontent.com/70126145/94125281-bdb53c00-fe88-11ea-8a91-3784ac09dbef.png)
+
+
 
 
 ##2. Rearing identical genotypic sepsid in different temperature treatments 
