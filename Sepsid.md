@@ -4,7 +4,10 @@
 
 #Experimental setup for investigation on effect of temperature on sepsid sperm length
 
+
+
 ##1. Sexing 
+
 #Male flies abdomen: Generally thinner and more curved (concave) compared to female 
 ![WeChat Image_20200924170436](https://user-images.githubusercontent.com/70126145/94124843-1cc68100-fe88-11ea-9228-e9c50812b2a4.png)
 
@@ -24,15 +27,24 @@
 
 
 
+
+
+
+
 ##2. Rearing identical genotypic sepsid in different temperature treatments 
 
 #Emerged virgins were identified from the main sepsid culture (provided by National University of Singapore Reproduction Laboratory), male and female virgins were isolated into different cages. After collected sufficient virgins (n=20), male and female virgins were released into the same cage to induce mating. Mated virgin pairs were observed and isolated into 100mL tubes. Resources such as sugar, water and dung were provided in the quarantined cage to trigger oviposit for four to six hours. After oviposit, 30 hours was given for the eggs to hatch and 60 first instar larvae were picked up to split equally into four cages. All four cages were given identical amount of dung, water and sugar but incubated with different temperature treatments (16 ℃, 20 ℃, 24 ℃ and 28 ℃) in climate chambers. All climate chambers were checked by Langmuir probes to ensure minimum temperature fluctuation. The cages were monitored daily to observe adult emergence and adult flies were collected immediately upon emergence. The study utilised eight biological replicates for each temperature, which made up a total of 32 cycles of the experiment setup for four populations. 
 
 #![WeChat Image_20200924163545](https://user-images.githubusercontent.com/70126145/94122239-e4717380-fe84-11ea-8a62-8ff8c5b06ea0.png)
 
+
+
+
 ##3. Dissection 
 
 #Emerged adults were dissected within one to four days after collection by leaving them in -40 ℃ freezer to induce unconsciousness. Five male flies were taken from each of the four temperature treatments for all 8 replicates and the average sperm size, testes size and head width measurements of five male flies was used as final data for each replicate. To differentiate between male and female flies, Olympus SZX10 microscope was used and flies with modified spiking front legs were identified as males. 
+
+
 
 
 ##4. Measurement
