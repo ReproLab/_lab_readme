@@ -22,7 +22,7 @@ refer to [link]()
 ## Sampling Protocol
 
 
-## Rearing protocol
+## Rearing protocol :mosquito:
 Stage codes:
 - Larvae 1st to 2nd instars : U
 - Larvae 3rd instars: L3
