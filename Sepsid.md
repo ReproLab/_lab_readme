@@ -14,7 +14,7 @@
 
 steps:
 - title: Sepsid mating video
-video: https://www.youtube.com/embed/_4ifF6DKcnU
+- video: https://www.youtube.com/embed/_4ifF6DKcnU
 
 ![](https://j.gifs.com/4QOgn2.gif)
 
