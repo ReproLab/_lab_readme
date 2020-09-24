@@ -5,14 +5,16 @@ Find out what we [do](http://www.reprolabnus.com/)
 
 Content page:
 -   [Admin](#Admin)
--   [Safety courses](#Safetycourses)
--   [Best practices](#Best practices)
+-   [Safety courses](#Safety-courses)
+-   [Best practices](#Best-practices)
 -   [Methods](#Methods)
 -   [Data science](#Data science)
 
 
-Admin |(to email to RA)
+Admin (to email to RA)
+
 ----------
+
 Personal details  
 
 Full name 
@@ -28,7 +30,7 @@ Gmail (for calendar)
 Lab write up + photo for website :smile:
 
 
-Safetycourses 
+Safety courses 
 ----------
 All members of the lab needs to undergo their required safety courses before beginning any labwork. Check below to find out which! 
 |                  |Fac safety|Dept safety|Lab training|OSHGEN01|OSHGEN03|OSHCHM01|OSHFS01|OSHGEN08|OSHBIO06|OSHCHM06|
