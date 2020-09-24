@@ -1,6 +1,6 @@
 Welcome to Sepsids!
 ===================
-Hello, welcome to the SOP for the BSF project for Reprolab!
+Hello, welcome to the _tiny_ world of sepsids flies in Reprolab!
 
 ## 1. Culture maintenance
 
