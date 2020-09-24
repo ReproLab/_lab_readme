@@ -12,6 +12,10 @@
 
 # Male behaviour: Butt wiggling and jump onto female which could triggers female struggling (https://www.youtube.com/watch?v=_4ifF6DKcnU&list=UUmw6ulUm0VfkP8BUEpAJcjQ&index=1 )
 
+steps:
+- title: Sepsid mating video
+video: https://www.youtube.com/embed/_4ifF6DKcnU
+
 ![](https://j.gifs.com/4QOgn2.gif)
 
 #Male flies abdomen: Generally thinner and more curved (concave) compared to female
