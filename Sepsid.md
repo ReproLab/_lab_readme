@@ -7,7 +7,8 @@
 ##1. Rearing identical genotypic sepsids in different temperature treatments
 
 #Emerged virgins were identified from the main sepsid culture (provided by National University of Singapore Reproduction Laboratory), male and female virgins were isolated into different cages. After collected sufficient virgins (n=20), male and female virgins were released into the same cage to induce mating. Mated virgin pairs were observed and isolated into 100mL tubes. Resources such as sugar, water and dung were provided in the quarantined cage to trigger oviposit for four to six hours. After oviposit, 30 hours was given for the eggs to hatch and 60 first instar larvae were picked up to split equally into four cages. All four cages were given identical amount of dung, water and sugar but incubated with different temperature treatments (16 ℃, 20 ℃, 24 ℃ and 28 ℃) in climate chambers. All climate chambers were checked by Langmuir probes to ensure minimum temperature fluctuation. The cages were monitored daily to observe adult emergence and adult flies were collected immediately upon emergence. The study utilised eight biological replicates for each temperature, which made up a total of 32 cycles of the experiment setup for four populations. 
-![WeChat Image_20200924163545](https://user-images.githubusercontent.com/70126145/94122239-e4717380-fe84-11ea-8a62-8ff8c5b06ea0.png)
+
+#![WeChat Image_20200924163545](https://user-images.githubusercontent.com/70126145/94122239-e4717380-fe84-11ea-8a62-8ff8c5b06ea0.png)
 
 ##2. Collection and dissection of male adult sepsid
 
