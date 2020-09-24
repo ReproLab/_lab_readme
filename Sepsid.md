@@ -1,8 +1,10 @@
-# 1. Culture maintenance
+
+
+## 1. Culture maintenance
 
    ## a. Stock maintenance
 
-#Experimental setup for investigation on effect of temperature on sepsid sperm length
+   ## b. Experimental setup for investigation on effect of temperature on sepsid sperm length
 
 
 
