@@ -1,4 +1,6 @@
-Welcome to 
+Welcome to Sepsids!
+-----------------
+Hello, welcome to the SOP for the BSF project for Reprolab!
 
 ## 1. Culture maintenance
 
@@ -6,15 +8,11 @@ Welcome to
 
    ## b. Experimental setup for investigation on effect of temperature on sepsid sperm length
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+
 
 ## 2. Sexing 
 
 # Male behaviour: Butt wiggling and jump onto female which could triggers female struggling (https://www.youtube.com/watch?v=_4ifF6DKcnU&list=UUmw6ulUm0VfkP8BUEpAJcjQ&index=1 )
-
-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/_4ifF6DKcnU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](https://j.gifs.com/4QOgn2.gif)
 
