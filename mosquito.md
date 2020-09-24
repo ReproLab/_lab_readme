@@ -24,27 +24,27 @@ refer to [link]()
 
 ## Rearing protocol
 Stage codes:
-Larvae 1st to 2nd instars : U
-Larvae 3rd instars: L3
-Larvae 4th instars: L4
-Pupa : P
-Adult : A
+- Larvae 1st to 2nd instars : U
+- Larvae 3rd instars: L3
+- Larvae 4th instars: L4
+- Pupa : P
+- Adult : A
 Check for:
-4th instars
-If not sure, look for exuviae
-Label with L4 + date
-Pupa
-Label with P + date
+- 4th instars
+  - If not sure, look for exuviae
+  - Label with L4 + date
+- Pupa
+  - Label with P + date
 Adults
-Transfer to dry container
-Transfer old label (including L4, P date) + A + emerging date 
-E.g. KR3-L4 
-       P-15/8 
-       A-20/8
+  - Transfer to dry container
+  - Transfer old label (including L4, P date) + A + emerging date 
+  - E.g. KR3-L4 
+         P-15/8 
+         A-20/8
 Dead larvae/pupa
-Pick up with metal scoop(flat side) into ethanol in individual eppendorf tubes
-Shift to middle before scooping to prevent damage
-Alternatively, pipette onto scoop
+- Pick up with metal scoop(flat side) into ethanol in individual eppendorf tubes
+- Shift to middle before scooping to prevent damage
+- Alternatively, pipette onto scoop
 Split each 3rd, 4th larvae and pupae into their own containers at the start (2 vials + rubber band) and label
 Cleaning
 Water too cloudy
