@@ -5,15 +5,16 @@
 #Experimental setup for investigation on effect of temperature on sepsid sperm length
 
 ##1. Sexing 
-#Male flies: Abdomen generally thinner and more curved (concave) compared to female 
+#Male flies abdomen: Generally thinner and more curved (concave) compared to female 
 ![WeChat Image_20200924170436](https://user-images.githubusercontent.com/70126145/94124843-1cc68100-fe88-11ea-9228-e9c50812b2a4.png)
 
+#Male flies legs: modified spike forelegs 
 
-#Female flies: Abdomen generally fatter and (convex) compared to male 
+#Female flies Abdomen: Generally fatter and (convex) compared to male 
 
 ![WeChat Image_20200924170442](https://user-images.githubusercontent.com/70126145/94124900-34056e80-fe88-11ea-9097-005d6d1fe585.png)
 
-
+#Female flies legs: Non-modified smooth forelegs
 
 
 
