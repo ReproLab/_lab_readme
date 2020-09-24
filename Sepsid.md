@@ -11,6 +11,9 @@
 
 #Female flies: Abdomen generally fatter and (convex) compared to male 
 
+![WeChat Image_20200924170442](https://user-images.githubusercontent.com/70126145/94124900-34056e80-fe88-11ea-9097-005d6d1fe585.png)
+
+
 
 
 
