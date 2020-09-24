@@ -8,6 +8,8 @@
 
 ##1. Sexing 
 
+# Male behaviour: Butt wiggling and jump onto female which could triggers female struggling (https://www.youtube.com/watch?v=_4ifF6DKcnU&list=UUmw6ulUm0VfkP8BUEpAJcjQ&index=1 )
+
 #Male flies abdomen: Generally thinner and more curved (concave) compared to female
 
 ![WeChat Image_20200924170436](https://user-images.githubusercontent.com/70126145/94124843-1cc68100-fe88-11ea-9228-e9c50812b2a4.png)
