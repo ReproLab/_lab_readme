@@ -47,8 +47,8 @@ Methods
 - Wet laboratory aseptic techniques
 - Insectary general guide
 - Organism-specific protocols
-  - Beetle-specific protocols
-  - Black soldier fly-specific protocols
+  - [Beetle-specific protocols](https://github.com/ReproLab/_lab_readme/blob/master/Beetle.md)
+  - [Black soldier fly-specific protocols](https://github.com/nicholaslws/BSF-projects/blob/master/SOP/SOP.md)
   - [Mosquito-specific protocols](https://github.com/ReproLab/_lab_readme/blob/master/mosquito.md)
   - [Sepsid protocols](https://github.com/ReproLab/_lab_readme/blob/master/Sepsid.md)
 
