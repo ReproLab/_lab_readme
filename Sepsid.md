@@ -6,7 +6,7 @@
 
 ##1. Sexing 
 #Male flies: Abdomen generally thinner and more curved (concave) compared to female 
-
+![WeChat Image_20200924170436](https://user-images.githubusercontent.com/70126145/94124843-1cc68100-fe88-11ea-9228-e9c50812b2a4.png)
 
 
 #Female flies: Abdomen generally fatter and (convex) compared to male 
