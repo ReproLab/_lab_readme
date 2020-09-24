@@ -10,6 +10,9 @@
 
 #Male flies legs: modified spike forelegs 
 
+![WeChat Image_20200924170850](https://user-images.githubusercontent.com/70126145/94125228-ad04c600-fe88-11ea-97ad-6dd35e4e2e98.png)
+
+
 #Female flies Abdomen: Generally fatter and (convex) compared to male 
 
 ![WeChat Image_20200924170442](https://user-images.githubusercontent.com/70126145/94124900-34056e80-fe88-11ea-9097-005d6d1fe585.png)
