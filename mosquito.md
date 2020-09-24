@@ -35,8 +35,9 @@ Check for:
   - Label with L4 + date
 - Pupa
   - Label with P + date
+  - Cover with another vial + rubber band
 - Adults
-  - Transfer to dry container
+  - Transfer to dry vials
   - Transfer old label (including L4, P date) + A + emerging date 
   - E.g. KR3-L4 
          P-15/8 
