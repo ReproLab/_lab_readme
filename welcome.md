@@ -55,7 +55,8 @@ Methods
 
 Data science
 ------------
-- Introduction to git and githib
+- Introduction to **git** and **github**
+  - [Getting started with GitHub Docs](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/set-up-git#next-steps-authenticating-with-github-from-git)
 - Using RStudio
 - Learning markdown syntax
   - [Basic markdown syntax guide](https://www.markdownguide.org/basic-syntax/) - the markdown syntax is very similar to html but with slight differences
