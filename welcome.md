@@ -1,46 +1,51 @@
 Welcome to Reprolab!
 ================
 
-Find out what we [do](http://www.reprolabnus.com/)
+Here are some things to take note of now that you have joined the lab.
 
-Content page:
--   [Admin](#Admin---to-email-to-RA)
--   [Safety courses](#Safety-courses)
+-   [To Do List](#To-Do-List)
+    -   [Email these to your friendly Research Assistant :grin:](#Email-these-to-your-friendly-Research-Assistant-:grin:)
+    -   [Attend safety courses](#Attend-safety-courses)
 -   [Best practices](#Best-practices)
 -   [Methods](#Methods)
 -   [Data science](#Data-science)
 -   [Reprolab cookbook](#Reprolab-cookbook)
 
 
-Admin - to email to RA
-----------
-1. Personal details  
-2. Full name 
-3. Matric no 
-4. Handphone no (for Reprolab whatsapp chat) 
-5. Student Email 
-6. Gmail (for calendar) 
-7. Lab write up + photo for website :smile:
+To Do List
+---------------
+
+### Email these to your friendly Research Assistant :grin: ###
+(It's Nicole! - dbsllyn@nus.edu.sg)
+
+1. Full name 
+2. Matric number 
+3. Student Email (to join our MSTeams)
+4. Handphone number (to join our Whatsapp group)
+5. Gmail (to join our Google calendar) 
+6. Personal write up + photo for website (see [http://www.reprolabnus.com/people.html](http://www.reprolabnus.com/people.html) for reference)
+7. A suitable date for your physical lab induction (before starting labwork)
 
 
-Safety courses 
-----------
-All members of the lab needs to undergo their required safety courses before beginning any labwork. Check below to find out which! 
+### Attend safety courses ###
+
+All members of the lab need to undergo their required safety courses before starting labwork. Check below to find out which! 
 |                  |Fac safety|Dept safety|Lab training|OSHGEN01|OSHGEN03|OSHCHM01|OSHFS01|OSHGEN08|OSHBIO06|OSHCHM06|
 |------------------|----------|-----------|------------|--------|--------|--------|-------|--------|--------|--------|
-|Research fellow   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|Research assistant|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|Research Fellow   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|Research Assistant|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |Postgraduate      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|FYP student       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |
-|UROPS student     |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |        |
+|FYP Student       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |
+|UROPS/UROPES Student     |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |        |
 
 
 Best practices
 ----------------
-- Maintaining a lab notebook
-- Maintaining softcopy of datasheet
-- Wear laboratory appropriate attire (Jeans and covered shoes)
-- Use a citation software (Mendeley/Zotero)
+- Wear lab appropriate attire (long pants & covered shoes)
+- Maintain a lab notebook
+- Maintain softcopies of datasheets
+- Backup your data frequently!!!
+- Use a citation software when writing reports (Mendeley/Zotero)
 
 Methods
 ----------
@@ -55,9 +60,10 @@ Methods
 
 Data science
 ------------
-- Introduction to **git** and **github**
+- Introduction to **Git** and **Github**
   - [Getting started with GitHub Docs](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/set-up-git#next-steps-authenticating-with-github-from-git)
-- Using RStudio
+- Using R/RStudio
+  - Refer to R lecture notes within MSTeams: Reprolab Project Organiser &#8594; Bi-weekly Data Sharing &#8594; LSM2253 Lecture notes
 - Learning markdown syntax
   - [Basic markdown syntax guide](https://www.markdownguide.org/basic-syntax/) - the markdown syntax is very similar to html but with slight differences
 - Markdown cheatsheet
