@@ -16,7 +16,7 @@ To Do List
 ---------------
 
 
-### Email these to your friendly Research Assistant :grin:###
+### Email these to your friendly Research Assistant :grin: ###
 (It's Nicole! - dbsllyn@nus.edu.sg)
 
 1. Full name 
