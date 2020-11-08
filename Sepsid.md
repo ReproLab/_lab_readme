@@ -9,7 +9,7 @@ Content page:
 - [Sexing](#Sexing)
 - [Dissection](#Dissection)
 - [Body measurements](#Body-measurements)
-- [Previous experimental setups](#Previous-experimental setups)
+- [Previous experimental setups](#Previous-experimental-setups)
 
 Culture maintenance
 -------------------
