@@ -4,7 +4,7 @@ Welcome to Reprolab!
 Here are some things to take note of now that you have joined the lab.
 
 -   [To Do List](#To-Do-List)
-    -   [Email these to your friendly Research Assistant :grin:](#Email-these-to-your-friendly-Research-Assistant-:grin:)
+    -   [Email these to your Research Assistant](#Email-these-to-your-friendly-Research-Assistant-:grin:)
     -   [Attend safety courses](#Attend-safety-courses)
 -   [Best practices](#Best-practices)
 -   [Methods](#Methods)
