@@ -35,9 +35,9 @@ All members of the lab need to undergo their required safety courses before star
 |------------------|----------|-----------|------------|--------|--------|--------|-------|--------|--------|--------|
 |Research Fellow   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |Research Assistant|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|Postgraduate      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|FYP Student       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |
-|UROPS/UROPES Student     |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |        |
+|Postgraduate      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|FYP Student       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |
+|UROPS/UROPES Student     |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |        |
 
 
 Best practices
