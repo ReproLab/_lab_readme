@@ -30,7 +30,7 @@ To Do List
 
 ### Attend safety courses ###
 
-All members of the lab need to undergo their required safety courses before starting labwork. Check below to find out which! 
+All members of the lab need to undergo their required safety courses before starting labwork. Check below to find out which! Do send the e-certificates (usually received the day after completion) to your Research Assistant 
 |                  |Fac safety|Dept safety|Lab training|OSHGEN01|OSHGEN03|OSHCHM01|OSHFS01|OSHGEN08|OSHBIO06|OSHCHM06|
 |------------------|----------|-----------|------------|--------|--------|--------|-------|--------|--------|--------|
 |Research Fellow   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
