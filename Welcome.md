@@ -30,13 +30,13 @@ To Do List
 
 ### Attend safety courses ###
 
-All members of the lab need to undergo their required safety courses before starting labwork. Check below to find out which! Courses can be found on the LumniNUS page: https://luminus.nus.edu.sg/.
-Please send the e-certificates (*usually received the day after completion*) to your Research Assistant for record purposes. 
+All members of the lab need to undergo their required safety courses before starting labwork. Check below to find out which! Courses can be found on the LumniNUS page: https://luminus.nus.edu.sg/. You can log in with your NUS email and password.
+Please send the e-certificates (**usually received the day after completion**) to your Research Assistant for record purposes. 
 |                  |Fac safety|Dept safety|Lab training|OSHGEN01|OSHGEN03|OSHCHM01|OSHFS01|OSHGEN08|OSHBIO06|OSHCHM06|
 |------------------|----------|-----------|------------|--------|--------|--------|-------|--------|--------|--------|
 |Research Fellow   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |Research Assistant|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|Postgraduate      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|Postgraduate/PhD student |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |FYP Student       |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |
 |UROPS/UROPES Student     |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |        |
 
