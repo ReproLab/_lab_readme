@@ -38,13 +38,13 @@ All members of the lab need to undergo the following safety courses before start
 - LumiNUS safety modules
 
 Check below to find out which LumiNUS safety modules you'll need to do! Please send the e-certificates **(usually received the day after completion)** to your Research Assistant for record purposes. 
-|                  |OSHGEN01|OSHGEN03|OSHCHM01|OSHBIO08|OSHFS01|OSHGEN08|OSHBIO06|OSHCHM06|
-|------------------|--------|--------|--------|--------|-------|--------|--------|--------|
-|Research Fellow   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|Research Assistant|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|Postgraduate/PhD student |        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|FYP Student       |        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |
-|UROPS/UROPES Student     |        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |        |
+|                  |OSHGEN01|OSHGEN03|OSHCHM01|OSHBIO08|OSHFS01|OSHGEN08|OSHGEN06|OSHBIO05|OSHCHM05|
+|------------------|--------|--------|--------|--------|-------|--------|--------|--------|--------|
+|Research Fellow   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|Research Assistant|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|Postgraduate/PhD student |        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|FYP Student       |        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |        |
+|UROPS/UROPES Student     |        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |        |        |
 
 
 Best practices
