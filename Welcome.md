@@ -41,7 +41,7 @@ Check below to find out which LumiNUS safety modules you'll need to do! Please s
 |                  |OSHGEN01|OSHGEN03|OSHCHM01|OSHBIO08|OSHFS01|OSHGEN08|OSHBIO06|OSHCHM06|
 |------------------|--------|--------|--------|--------|-------|--------|--------|--------|
 |Research Fellow   |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|Research Assistant|:heavy_check_mark:|:heavy_check_mark:|:h:heavy_check_mark:|eavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|Research Assistant|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |Postgraduate/PhD student |        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |FYP Student       |        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |
 |UROPS/UROPES Student     |        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |        |
