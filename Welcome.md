@@ -43,7 +43,7 @@ Check below to find out which LumiNUS safety modules you'll need to do! Please s
 |------------------|--------|--------|--------|--------|--------|-------|--------|--------|--------|--------|--------|
 |Research Fellow   |:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|(if needed)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |
 |Research Assistant|:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|(if needed) |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|Postgraduates     |        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |
+|Postgraduates     |        |        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |
 |Undergraduates    |        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |        |
 
 
