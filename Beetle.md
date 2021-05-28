@@ -121,7 +121,7 @@ Materials:
 
 
 
-# Sigma RNAzol RT Total RNA Isolation
+## Sigma RNAzol RT Total RNA Isolation
 
 
 Step 1: Homogenize tissue samples in 400ul RNAzol RT using a Polytron or other appropriate homogenizer. Add another 600ul RNAzol RT and mix.
