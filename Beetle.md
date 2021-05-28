@@ -122,11 +122,11 @@ Materials:
 Sigma RNAzol RT Total RNA Isolation:
 
 
-Homogenize tissue samples in 400ul RNAzol RT using a Polytron or other appropriate homogenizer. Add another 600ul RNAzol RT and mix.
+Step 1: Homogenize tissue samples in 400ul RNAzol RT using a Polytron or other appropriate homogenizer. Add another 600ul RNAzol RT and mix.
 
-Add 0.4 mL of RNase-free water. Cover the sample tightly, shake vigorously for 15 seconds, and allow to stand for 15 minutes at room temperature. Centrifuge the resulting mixture at 12,000×g for 15 minutes at 4-28 °C. Transfer 750ul supernatant to a new tube.
+Step 2: Add 0.4 mL of RNase-free water. Cover the sample tightly, shake vigorously for 15 seconds, and allow to stand for 15 minutes at room temperature. Centrifuge the resulting mixture at 12,000×g for 15 minutes at 4-28 °C. Transfer 750ul supernatant to a new tube.
 
-To 750ul supernatent add an equal volume of 100% isopropanol to precipitate RNA. Allow to stand for 10 minutes then centrifuge at 12,000×g for 10 minutes at room temperature. (The RNA precipitate will form a white pellet on the bottom of the tube). Wash RNA pellets with 0.5 mL 75% ethanol (v/v). Centrifuge at 4,000-8,000 ×g for 1-3 minutes at room temperature.
+Step 3: To 750ul supernatent add an equal volume of 100% isopropanol to precipitate RNA. Allow to stand for 10 minutes then centrifuge at 12,000×g for 10 minutes at room temperature. (The RNA precipitate will form a white pellet on the bottom of the tube). Wash RNA pellets with 0.5 mL 75% ethanol (v/v). Centrifuge at 4,000-8,000 ×g for 1-3 minutes at room temperature.
 Repeat wash second time.
 Remove alcohol solution with a micropipette.
 Solubilize the RNA pellet, without drying, in Rnase-free water at a concentration of 1-2μg/mL for mRNA and 0.1 μg/μL for micro RNA. Vortex the samples at room temperature for 2-5 minutes. 
