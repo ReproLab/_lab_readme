@@ -1,4 +1,4 @@
-:shit: Reprolab beetle SOPS :shit:
+# :shit: Reprolab beetle SOPS :shit:
 
 Step 1: Make the bait (AKA Dungpling) and prepare trap materials:
 Materials
