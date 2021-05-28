@@ -10,6 +10,8 @@ Content page:
 - [Dissection](#Dissection)
 - [Body measurements](#Body-measurements)
 - [Previous experimental setups](#Previous-experimental-setups)
+- [RNA Extraction](#Aurum Total RNA Mini Kit)
+
 
 Culture maintenance
 -------------------
@@ -72,4 +74,27 @@ Previous experimental setups
 #Emerged virgins were identified from the main sepsid culture (provided by National University of Singapore Reproduction Laboratory), male and female virgins were isolated into different cages. After collected sufficient virgins (n=20), male and female virgins were released into the same cage to induce mating. Mated virgin pairs were observed and isolated into 100mL tubes. Resources such as sugar, water and dung were provided in the quarantined cage to trigger oviposit for four to six hours. After oviposit, 30 hours was given for the eggs to hatch and 60 first instar larvae were picked up to split equally into four cages. All four cages were given identical amount of dung, water and sugar but incubated with different temperature treatments (16 ℃, 20 ℃, 24 ℃ and 28 ℃) in climate chambers. All climate chambers were checked by Langmuir probes to ensure minimum temperature fluctuation. The cages were monitored daily to observe adult emergence and adult flies were collected immediately upon emergence. The study utilised eight biological replicates for each temperature, which made up a total of 32 cycles of the experiment setup for four populations. 
 
 ![WeChat Image_20200924163545](https://user-images.githubusercontent.com/70126145/94122239-e4717380-fe84-11ea-8a62-8ff8c5b06ea0.png)
+
+
+RNA Extraction (Aurum Total RNA Mini Kit)
+-------------------
+   ### Extraction Protocol:
+-	Spin down samples at 13,000 rpm for 20 mins at 4 C.
+-	Keep samples on ice.
+-	Add 700ul of Lysis Solution to tube.
+-	Homogenize sample using handheld mortar and PTFE pestles (2-3 min).          
+-	Centrifuge the lysate for 3 min at 4 C.      
+-	Transfer supernatant to new tube.
+-	Add 700 ul of 60% Ethanol. Mix thoroughly using vortex and make sure no bilayer is visible.
+-	Insert RNA Binding Column into wash tube
+-	Decant/Pipette about ~700 ul of homogenized lysate into column. Spin for 1 min. Toss filtrate into special discard container (for phenol). Then repeat.
+-	Add 700 ul of Low Stringency Wash to column. Spin for 1 min then toss.
+-	Take aliquots of DNase I solution (5 ul). Add 75 ul of DNase solution in fridge or make Master-mix.
+-	Add 80 ul of DNase Master-mix to each column. Incubate at RT for 25 mins (cover).
+-	Add 700 ul of High Stringency Wash to column. Spin for 1 min. Toss filtrate & replace into wash tube.
+-	Add 700ul of Low Stringency Wash to column. Spin for 1 min. Toss filtrate but keep in wash tube. Then repeat
+-	Spin for 3 min to remove residual wash solution.
+-	Transfer RNA Binding Column to labelled 1.5 ul Eppendorf tubes.
+-	Pipette 40 ul of elution solution onto membrane. Wait for 1 min for solution to saturate membrane.
+-	Centrifuge for 2 min to elute total RNA.
 
