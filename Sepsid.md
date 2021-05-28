@@ -97,4 +97,4 @@ RNA Extraction (Aurum Total RNA Mini Kit)
 -	Transfer RNA Binding Column to labelled 1.5 ul Eppendorf tubes.
 -	Pipette 40 ul of elution solution onto membrane. Wait for 1 min for solution to saturate membrane.
 -	Centrifuge for 2 min to elute total RNA.
-
+ 
