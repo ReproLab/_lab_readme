@@ -50,7 +50,7 @@ Best practices
 - Wear lab appropriate attire (long pants & covered shoes)
 - Maintain a lab notebook
 - Maintain softcopies of datasheets
-- Backup your data frequently!!!
+- Backup your data frequently to Reprolab's databases (MSTeams/Dropbox!!!
 - Use a citation software when writing reports (Mendeley/Zotero)
 
 Methods
