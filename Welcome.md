@@ -30,10 +30,10 @@ To Do List
 
 ### Attend safety courses ###
 
-All members of the lab need to undergo the following safety courses before starting labwork. 
+All members of the lab (including interns, student helpers & external students!) need to undergo the following safety courses before starting labwork. 
 
 - Physical lab induction
-- Safety modules (on Canvas)
+- Safety modules (on Canvas. RAs are to request account creation for external members via [https://forms.office.com/r/bApRn68RdN] )
 
 Check below to find out which Canvas safety modules you'll need to do! Please send the e-certificates **(usually received the day after completion)** or any proof of completion to your Research Assistant for record purposes. 
 
