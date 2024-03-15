@@ -44,6 +44,7 @@ Check below to find out which Canvas safety modules you'll need to do! Please se
 |Postgraduates     |        |        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |
 |Undergraduates    |        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |        |
 
+More details about the courses can be found here:  https://inetapps.nus.edu.sg/osh/portal/training/ssts.html 
 
 Best practices
 ----------------
