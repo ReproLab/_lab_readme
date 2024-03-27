@@ -41,7 +41,7 @@ Check below to find out which Canvas safety modules you'll need to do! Please se
 |------------------|--------|--------|--------|--------|--------|-------|--------|--------|--------|--------|--------|--------|
 |Research Fellow   |:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|(if needed)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:| 
 |Research Assistant|:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|(if needed) |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:| 
-|Postgraduates     |        |        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |
+|Postgraduates     |        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |
 |Undergraduates    |        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |        |
 
 More details about the courses can be found here:  https://inetapps.nus.edu.sg/osh/portal/training/ssts.html 
