@@ -39,7 +39,7 @@ Check below to find out which Canvas safety modules you'll need to do! Please se
 
 |                  |OSHGEN01|OSHGEN03|OSHGEN02|OSHCHM01|OSHBIO07|FOSSAFETY001|OSHGEN08|OSHGEN06|OSHBIO05|OSHCHM05|OSHCHM04|OSHFS01 (on CHRS)|
 |------------------|--------|--------|--------|--------|--------|-------|--------|--------|--------|--------|--------|--------|
-|Research Fellow   |:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|(if needed)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:| 
+|Research Fellow   |:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|(if needed)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:| 
 |Research Assistant|:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|(if needed) |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:| 
 |Postgraduates     |        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |
 |Undergraduates    |        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |        |
