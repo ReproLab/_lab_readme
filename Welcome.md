@@ -36,6 +36,7 @@ All members of the lab (including interns, student helpers & external students!)
 - Safety modules (on Canvas. RAs are to request account creation for non-NUS members via https://forms.office.com/r/bApRn68RdN)
 
 Check below to find out which Canvas safety modules you'll need to do! Please send the e-certificates **(usually received the day after completion)** or any proof of completion to your Research Assistant for record purposes. 
+*OSHGEN03 is a staff only safety module on CHRS Learning
 
 |                  |OSHGEN01|OSHGEN03|OSHGEN02|OSHCHM01|OSHBIO07|FOSSAFETY001|OSHGEN08|OSHGEN06|OSHBIO05|OSHCHM05|OSHCHM04|OSHFS01 (on CHRS)|
 |------------------|--------|--------|--------|--------|--------|-------|--------|--------|--------|--------|--------|--------|
