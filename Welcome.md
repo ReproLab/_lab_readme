@@ -17,7 +17,7 @@ To Do List
 
 
 ### Email these to your Research Assistant ###
-(It's Nicole! - dbsllyn@nus.edu.sg :grin:) 
+(It's Priya! - g_priyaa@nus.edu.sg :grin:) 
 
 1. Full name 
 2. Matric number 
