@@ -37,12 +37,12 @@ All members of the lab (including interns, student helpers & external students!)
 
 Check below to find out which Canvas safety modules you'll need to do! Please send the e-certificates **(usually received the day after completion)** or any proof of completion to your Research Assistant for record purposes. 
 
-|                  |OSHGEN01|OSHGEN03 (on CHRS)|OSHGEN02|OSHCHM01|OSHBIO07|FOSSAFETY001|OSHGEN08|OSHGEN06|OSHBIO05|OSHCHM05|OSHCHM04|OSHFS01 (on CHRS)|
-|------------------|--------|--------|--------|--------|--------|-------|--------|--------|--------|--------|--------|--------|
-|Research Fellow   |:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|(if needed)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:| 
-|Research Assistant|:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|(if needed) |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:| 
-|Postgraduates     |        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |
-|Undergraduates    |        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |        |
+|                  |OSHGEN01|OSHGEN03 (on CHRS)|OSHGEN02|OSHCHM01|OSHBIO07|FOSSAFETY001|OSHGEN08|OSHGEN06|OSHBIO05|OSHCHM05|OSHCHM04|OSHFS01 (on CHRS)|OSHBIO004|
+|------------------|--------|--------|--------|--------|--------|-------|--------|--------|--------|--------|--------|--------|--------|
+|Research Fellow   |:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|(if needed)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:| 
+|Research Assistant|:heavy_check_mark:|:heavy_check_mark:|        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|(if needed) |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|  
+|Postgraduates     |        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |:heavy_check_mark:| 
+|Undergraduates    |        |        |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|        |        |        |        |:heavy_check_mark:| 
  ##### (Checklist updated on Mar 2024) ####
 
 More details about the courses can be found here:  https://inetapps.nus.edu.sg/osh/portal/training/ssts.html 
